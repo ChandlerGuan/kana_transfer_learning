@@ -1,0 +1,11 @@
+Hiragana recognition
+
+This is a course project for Prof.Kamata's pattern recognition course.
+The project is about image classification with convolutional neural network(CNN) on Japanese kana data.
+There are two models of this project:
+1. Use the etlcdb dataset to do classification of 72 characters (70 hiragana and 2 kanji)
+2. Use the mnist dataset to learn feature extraction and do transfer learning to self-collect kana data with small size image (11*10), to meet the project specification.
+
+The sourse code included data process, training and validation and visulisation of final report.
+
+Thanks for Prof. Kamata's instructive lectures!
